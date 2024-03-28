@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\bin\Debug\net6.0\classtask.exe
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\bin\Debug\net6.0\classtask.deps.json
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\bin\Debug\net6.0\classtask.runtimeconfig.json
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\bin\Debug\net6.0\classtask.dll
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\bin\Debug\net6.0\classtask.pdb
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.dll
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\refint\classtask.dll
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.pdb
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\classtask.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tclasstask\C#\Task 2 Tarix\classtask\obj\Debug\net6.0\ref\classtask.dll
